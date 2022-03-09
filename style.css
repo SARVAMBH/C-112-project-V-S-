@@ -1,0 +1,54 @@
+body
+{
+  color: whitesmoke;
+  background: conic-gradient(yellow,orange,red,blue,purple,violet,brown,white,cyan,turquoise,navy,grey,gold,silver,pink,maroon,darkslategrey,darkblue,darkred,darkgrey,skyblue,wheat,lime,limegreen,chartreuse,antiquewhite,aquamarine,beige,azure,blueviolet,indigo,indianred);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name  , #result_gesture_name2
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size: 48px;
+}
+
+.heading
+{
+  font-size: 18px; 
+  border-radius: 10px;
+  letter-spacing: 10px;
+  color:indigo;
+  font-weight: bolder;
+}
+
+h4
+{
+  background-color: black;
+  color:lime;
+}
+
+h5
+{
+  background-color:black;
+  color: lime;
+}
+
+label
+{
+  background-color: black;
+  color: cornflowerblue;
+}
